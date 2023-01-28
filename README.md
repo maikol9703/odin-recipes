@@ -1,2 +1,2 @@
-# odin-recipes
-In this repo I will create a simple but informative recipes web page using html, to put in work what I've learned so far, like the html's boilerplate as well as some basic elements like paragraph, strong, etc. Later I will revisit it and add some more css and maybe javacsript
+
+In this repo I will create a simple but informative recipes web page using html, to put in work what I've learned so far, like the html's boilerplate as well as some basic elements like paragraph, strong, etc. Later I will revisit it and add some more css and maybe javascript
